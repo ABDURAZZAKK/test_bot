@@ -4,7 +4,7 @@ from sqlA_orm import save_worker
 from services import get_xlsx_name
 
 
-TG_TOKEN = ''
+TG_TOKEN = ' '
 
 
 bot = telebot.TeleBot(TG_TOKEN)
